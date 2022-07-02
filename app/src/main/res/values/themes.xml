@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Scanner_App" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FF1A55FA</item>
+    </style>
+</resources>
